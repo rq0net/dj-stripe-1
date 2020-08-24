@@ -1,0 +1,12 @@
+*.py[cod]
+__pycache__
+.coverage
+.tox
+*.mo
+
+# Sphinx
+docs/_build
+docs/_static
+
+# SQLite
+*.sqlite3
